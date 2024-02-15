@@ -18,7 +18,7 @@ DevOps emerged as a matter of necessity during a period in software development 
 #### DevOps Culture
 DevOps culture essentially means the adoption and use of new practices and methodologies such as changing from separate silo tasks to seemless collaboration between developers and operations engineers and use of inter-team tools to achieve common goals. Essentially, it is an holistic adoption of change to software development through continuous learning and continuous improvement, fast implementation and feedback, and good cross-team collaboration.
 
-![alt text](images/devops.png)
+![alt text](Images/devops.png)
 
 ## SDLC (Software Development LifeCycle)
 #### The Concept of SDLC
